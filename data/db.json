@@ -1,0 +1,33 @@
+{
+  "credentials": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "name": "Maaza Mehmood",
+      "email": "maaza@gmail.com",
+      "password": "Maaza24**",
+      "id": "a1hAc_r"
+    },
+    {
+      "name": "Ali Adeel",
+      "email": "Addii@gmail.com",
+      "password": "12345Addi*",
+      "id": "MzQeZIM"
+    },
+    {
+      "name": "",
+      "email": "samra24@gmail.com",
+      "password": "Samra1234***",
+      "id": "qAoA3eO"
+    },
+    {
+      "name": "Mariyam Ahmed",
+      "email": "maryy14@gmail.com",
+      "password": "Murri0090**",
+      "id": "R2M4oP3"
+    }
+  ]
+}
