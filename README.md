@@ -18,9 +18,6 @@ This is a simple user authentication project built with React, Redux, React Rout
 - Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
 - JSON Server: A fake REST API server for development and prototyping.
 
-## demo 
-- Access live demo here ''.
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/v14/16) installed on your machine
@@ -58,10 +55,10 @@ Open your web browser and access the application at http://localhost:3000.
 ## Project Structure
 
 The project structure is organized as follows:
-data/db.json: A fake REST API server for development and prototyping.
-src/: Contains the React application source code.
-src/store/: Redux actions for user authentication.
-src/pages/: React components used in the application.
+- data/db.json: A fake REST API server for development and prototyping.
+- src/: Contains the React application source code.
+- src/store/: Redux actions for user authentication.
+- src/pages/: React components used in the application.
 
 ## Contributing
 
