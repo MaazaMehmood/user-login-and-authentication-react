@@ -1,33 +1,34 @@
 {
   "credentials": [
     {
-      "id": "1",
-      "email": "admin@gmail.com",
-      "password": "admin"
-    },
-    {
       "name": "Maaza Mehmood",
-      "email": "maaza@gmail.com",
-      "password": "Maaza24**",
-      "id": "a1hAc_r"
+      "email": "maaza24@gmail.com",
+      "password": "123Maaza**",
+      "id": "XHX0HaW"
     },
     {
-      "name": "Ali Adeel",
-      "email": "Addii@gmail.com",
-      "password": "12345Addi*",
-      "id": "MzQeZIM"
+      "name": "Ali Usama",
+      "email": "ali@123gmail.com",
+      "password": "Ali123**",
+      "id": "zMNUbwr"
     },
     {
-      "name": "",
-      "email": "samra24@gmail.com",
-      "password": "Samra1234***",
-      "id": "qAoA3eO"
+      "name": "Fatima Adeel",
+      "email": "fatima180@gmail.com",
+      "password": "**Fatima180",
+      "id": "cRytt9I"
     },
     {
-      "name": "Mariyam Ahmed",
-      "email": "maryy14@gmail.com",
-      "password": "Murri0090**",
-      "id": "R2M4oP3"
+      "name": "Alya ",
+      "email": "Alyaa123@gmailcom",
+      "password": "123Alya**",
+      "id": "i1XAgtr"
+    },
+    {
+      "name": "Jazil",
+      "email": "Jazil@gmailcom",
+      "password": "12Jazz**",
+      "id": "NHU1gdZ"
     }
   ]
 }
